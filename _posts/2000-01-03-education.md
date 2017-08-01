@@ -1,5 +1,5 @@
 ---
-title: "setup details"
+title: "education"
 bg: orange
 color: black
 fa-icon: toggle-on
