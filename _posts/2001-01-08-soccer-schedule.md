@@ -1,7 +1,7 @@
 ---
 title: "schedule"
 bg: '#63BD2F'
-color: white
+color: black
 fa-icon: film
 ---
 
