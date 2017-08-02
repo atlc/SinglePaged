@@ -21,7 +21,7 @@
 	#Forms
 	#Misc */
 
-.soccerscheduletablestyle table, thead, th, tr, td {
+.soccerscheduletablestyle * {
 		border-collapse: separate;
 		border-spacing: 4px;
  		border: 2px solid black;  }
