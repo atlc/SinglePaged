@@ -57,13 +57,10 @@
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
 		
-              .soccerscheduletablestyle {
+            .soccerscheduletablestyle {
                 border-collapse: collapse;
-
-            > table, td, th {
-                border: 1px solid black;
+                border: 2px solid grey;
             }
-       }
  }
 
 
