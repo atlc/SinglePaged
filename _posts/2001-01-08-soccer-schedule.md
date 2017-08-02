@@ -1,7 +1,7 @@
 ---
 title: "schedule"
 bg: '#63BD2F'
-color: black
+color: white
 fa-icon: film
 ---
 
@@ -14,4 +14,4 @@ fa-icon: film
 | Spain Park      | 09/11/2017  | 5:45 PM | Varsity Field |
 |  JCCHS      | 09/14/2017  | 7:00 PM | 1A            |
 |  Thompson      | 09/15/2017  | 7:00 PM | 1A            |
-|  @ ??? State Cup      | 09/15/2017  | 7:45 PM | 2        |
+| State Cup      | 09/15/2017  | 7:45 PM | 2        |
