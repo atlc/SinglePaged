@@ -58,6 +58,14 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+        .soccerscheduletablestyle {
+                border-collapse: collapse;
+
+            > table, td, th {
+                border: 1px solid black;
+            }
+       }
+
 
 /* #Typography
 ================================================== */
