@@ -45,7 +45,8 @@
 		content: none; }
 	table {
 		border-collapse: collapse;
-		border-spacing: 0; }
+		border-spacing: 2px;
+                border: 2px solid black; }
 
 
 /* #Basic Styles
@@ -56,11 +57,6 @@
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
-		
-            .soccerscheduletablestyle > * {
-                border-collapse: collapse;
-                border: 2px solid grey;
-            }
  }
 
 
