@@ -5,7 +5,7 @@ color: white
 fa-icon: film
 ---
 
-
+{:.soccerscheduletablestyle}
 |      Game     |     Date    | Time |     Field        |
 | ------------- | ----------- | ---- | ---------------- |
 | @ Vestavia    | 08/28/2017  | 6:30 PM | 3B            |
