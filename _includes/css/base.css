@@ -66,11 +66,11 @@
 	q:before, q:after {
 		content: '';
 		content: none; }
-	table {
+/*	table {
 		border-collapse: collapse;
 		border-spacing: 2px;
                 border: 2px solid black; }
-
+*/
 
 /* #Basic Styles
 ================================================== */
