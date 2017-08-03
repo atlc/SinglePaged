@@ -2,7 +2,7 @@
 title: "certifications"
 bg: '#63BD2F'
 color: white
-fa-icon: id-card
+fa-icon: fa-address-card-o
 style: center
 ---
 
