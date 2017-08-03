@@ -2,7 +2,7 @@
 title: "certifications"
 bg: '#63BD2F'
 color: white
-fa-icon: fa-id-card-o
+fa-icon: id-card-o
 ---
 
 ## CompTIA
