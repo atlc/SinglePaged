@@ -15,8 +15,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "andrew.cartwright"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page, resume, birmingham, software, programmer, developer, development, software engineering"
+description: "This is the personal page of Andrew Cartwright, serving as a resume, bio, project repository, and more."
 source_link: "https://github.com/atlc/atlc.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
