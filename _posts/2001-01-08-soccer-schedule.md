@@ -2,7 +2,7 @@
 title: "schedule"
 bg: '#63BD2F'
 color: white
-fa-icon: film
+fa-icon: fa-futbol-o
 ---
 
 |      Game     |     Date    |   Time  |     Field     |
