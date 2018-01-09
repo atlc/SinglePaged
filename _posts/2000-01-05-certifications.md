@@ -2,8 +2,8 @@
 title: "certifications"
 bg: '#63BD2F'
 color: white
-fa-icon: fa-list
 style: center
+fa-icon: fa-list
 ---
 
 ## CompTIA
