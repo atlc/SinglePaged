@@ -5,4 +5,4 @@ color: black
 fa-icon: graduation-cap
 ---
 
-I am currently enrolled as a student at Jefferson State Community College in Birmingham, AL, and am graduating in December 2017 with my Associate's Degree in Computer Information Systems with a concentration in Programming. While at JSCC, I was involved with extracurricular activities, participating on the College Scholars' Bowl team for 5 semesters and serving as the captain for 3.
+I received my Associate's Degree in Computer Information Systems with a concentration in Programming from Jefferson State Community College in December 2017. While at JSCC, I was involved with extracurricular activities, participating on the College Scholars' Bowl team for 5 semesters and serving as the captain for 3.
