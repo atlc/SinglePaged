@@ -8,7 +8,7 @@ style: center
 
 ## CompTIA
 #### Comptia Healthcare IT Technician
-Feb 2017 - Present. License [CTJDLDWN2KVEK52F](https://www.certmetrics.com/comptia/public/verification.aspx)
+Feb 2017 - Present. [License:](https://www.certmetrics.com/comptia/public/verification.aspx)   CTJDLDWN2KVEK52F
 
 ---
 
