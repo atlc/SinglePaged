@@ -3,7 +3,7 @@ title: "certifications"
 bg: '#63BD2F'
 color: white
 style: center
-fa-icon: fa-id-card-o
+fa-icon: id-card-o
 
 ---
 
