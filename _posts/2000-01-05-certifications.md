@@ -3,7 +3,6 @@ title: "certifications"
 bg: '#708090'
 color: white
 fa-icon: id-card-o
-style: center
 ---
 
 ## Microsoft
