@@ -1,9 +1,10 @@
 ---
 title: "certifications"
-bg: '#63BD2F'
+bg: '#708090'
 color: white
+fa-icon: id-card-o
 style: center
-fa-icon: fa-id-card-o
+
 
 ---
 
