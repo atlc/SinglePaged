@@ -3,21 +3,21 @@ title: "certifications"
 bg: '#63BD2F'
 color: white
 style: center
-fa-icon: fa-list
+fa-icon: fa-id-card-o
 
 ---
 
 ## Microsoft
 ### Microsoft Technical Associate
-* Database Administration Fundamentals, [2017 - Present.](https://www.youracclaim.com/badges/ddfa48f5-981f-445c-a16b-0adfecd18f6d/public_url)
+Database Administration Fundamentals, [2017 - Present.](https://www.youracclaim.com/badges/ddfa48f5-981f-445c-a16b-0adfecd18f6d/public_url)
 
-* Software Development Fundamentals, [2017 - Present.](https://www.youracclaim.com/badges/2bdeff35-cf12-4228-af03-e3485a0c60d8/public_url)
+Software Development Fundamentals, [2017 - Present.](https://www.youracclaim.com/badges/2bdeff35-cf12-4228-af03-e3485a0c60d8/public_url)
 
-* Security Fundamentals, [2018 - Present.](https://www.youracclaim.com/badges/91a09b81-4a76-448a-be2c-7ea49551e31b)
+Security Fundamentals, [2018 - Present.](https://www.youracclaim.com/badges/91a09b81-4a76-448a-be2c-7ea49551e31b)
 
 ---
 
 ## CompTIA
-* Comptia Healthcare IT Technician, [2017 - Present.](https://www.certmetrics.com/comptia/public/verification.aspx)
+Healthcare IT Technician, [2017 - Present.](https://www.certmetrics.com/comptia/public/verification.aspx)
 
-    *  License: CTJDLDWN2KVEK52F
+    License: CTJDLDWN2KVEK52F
