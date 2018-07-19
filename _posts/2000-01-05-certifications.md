@@ -5,7 +5,6 @@ color: white
 fa-icon: id-card-o
 style: center
 
-
 ---
 
 ## Microsoft
