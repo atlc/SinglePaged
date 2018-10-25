@@ -7,7 +7,9 @@ fa-icon: graduation-cap
 
 ## Covalence, 2018
 
-I am currently enrolled in the Birmingham-based Covalence bootcamp. It's a full-stack JavaScript curriculum where we are studying various frontend techs (HTML5, CSS3, Bootstrap, vanilla JS, jQuery, React, React Native), Node for the backend, MySQL and MongoDB for database work, and Heroku and AWS for infrastructure and deployment.
+I am currently enrolled in the Birmingham-based Covalence bootcamp. 
+
+It teaches a full-stack JavaScript curriculum based on various frontend techs (HTML5, CSS3, Bootstrap, Javascript (including ES6), jQuery, React, React Native), Node for the backend, MySQL and MongoDB for database work, and Heroku and AWS for infrastructure and deployment.
 
 ---
 
