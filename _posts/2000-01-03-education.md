@@ -5,12 +5,13 @@ color: white
 fa-icon: graduation-cap
 ---
 
-## Covalence 
+## Covalence, 2018
 
+I am currently enrolled in the Birmingham-based Covalence bootcamp. It's a full-stack JavaScript curriculum where we are studying various frontend techs (HTML5, CSS3, Bootstrap, vanilla JS, jQuery, React, React Native), Node for the backend, MySQL and MongoDB for database work, and Heroku and AWS for infrastructure and deployment.
 
 ---
 
-## Jefferson State Community College 
+## Jefferson State Community College, 2017 
 
 I received my Associate's Degree in Computer Programming with a 3.26 GPA from Jefferson State Community College. I was the recipient of this Jefferson State College Scholar award in 2016.
 
